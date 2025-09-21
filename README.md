@@ -6,8 +6,9 @@
 
 ## Introduction
 
-This project is a hands-on guide to understanding and training **Denoising Diffusion Probabilistic Models (DDPM)** using the [🤗 Diffusers](https://huggingface.co/docs/diffusers) library.  
+This project is a hands-on guide to understanding and training **Denoising Diffusion Probabilistic Models (DDPM)** using the [HugginFace Diffusers](https://huggingface.co/docs/diffusers) library.  
 Through an interactive notebook, we implement step by step the main components of a diffusion model, from data preparation to generating new images.
+Original paper [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239).
 
 ## What you will learn
 
